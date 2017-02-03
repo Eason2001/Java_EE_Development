@@ -1,2 +1,2 @@
 # Java_EE_Development
-Java EE Development and Reference
+Java Enterprise Development and Reference
