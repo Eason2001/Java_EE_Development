@@ -1,2 +1,2 @@
-# Java_Web_Development
-Java Web Development and Reference
+# Java_EE_Development
+Java EE Development and Reference
